@@ -2,7 +2,7 @@
 
 🤔 Think • 🎨 Design • 🛠️ Build • 🚢 Ship • 🔄 Repeat
 
-[![](https://visitcount.itsvg.in/api?id=sayeham&label=Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sayeham&label=Views&color=12&icon=5&pretty=false)](https://github.com/sayeham)
 
 <!--
 **sayeham/sayeham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
