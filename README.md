@@ -11,8 +11,6 @@ I’m sayeham, an AI software engineer focused on building practical products, a
 - **Backend:** Node.js, Express.js, REST APIs
 - **AI & ML:** Machine Learning, Deep Learning, NLP, LLM Applications, Prompt Engineering
 - **Agentic AI:** Hermes Agent, Claude Code, OpenAI Codex, autonomous coding agents, multi-agent orchestration, and AI-assisted software development
-- **Job Search Automation:** Automated job discovery, filtering, ranking, resume tailoring, cover letter drafting, and application-tracking workflows
-- **Resume & CV Automation:** Markdown-first resume generation, PDF export, role-specific summaries, and ATS-friendly tailoring
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Cloud & DevOps:** Docker, GitHub Actions, AWS, CI/CD
 - **Tools & Practices:** Git, Linux, Agile, Test-Driven Development
