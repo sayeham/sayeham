@@ -6,14 +6,16 @@ I’m sayeham, an AI software engineer focused on building practical products, a
 
 ### AI Software Engineer Skills
 
-- **Programming Languages:** JavaScript, TypeScript, Python, C#, C++
-- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs
-- **AI & ML:** Machine Learning, Deep Learning, NLP, LLM Applications, Prompt Engineering
-- **Agentic AI:** Hermes Agent, Claude Code, OpenAI Codex, autonomous coding agents, multi-agent orchestration, and AI-assisted software development
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Cloud & DevOps:** Docker, GitHub Actions, AWS, CI/CD
-- **Tools & Practices:** Git, Linux, Agile, Test-Driven Development
+- **Programming Languages:** Python, Go, C#, TypeScript, ClojureScript, JavaScript
+- **Frontend:** Vue.js, React.js, React Native, Angular, Electron.js, Redux, Plotly, Slate.js, Styled System, Styled Components, Material UI, Tailwind CSS, React-beautiful-dnd, PDF.js
+- **Backend:** Node.js, Express, Next.js, Python, Django, FastAPI, Nginx, GraphQL, REST APIs
+- **Data:** PostgreSQL, MongoDB, CouchDB, InfluxDB, DGraph, Firestore, FaunaDB, SQL
+- **Testing:** Jest, Cypress, React Testing Library
+- **CI/CD:** GitHub Actions, GitOps
+- **Cloud/DevOps:** AWS, GCP, Azure, Heroku, Vercel, Docker, Docker Compose, Linux, macOS
+- **Technologies:** Serverless Computing, Microservices, Blockchain
+- **AI/LLM Automation:** Hermes Agent, Claude Code, OpenAI Codex, autonomous coding agents, multi-agent orchestration, agentic AI workflows, prompt engineering, AI-assisted software development, workflow automation
+- **Interests:** Poetry, Table Tennis, Freestyle Football, Economics, Finance
 
 <!--
 [![](https://visitcount.itsvg.in/api?id=sayeham&label=Views&color=12&icon=5&pretty=false)](https://github.com/sayeham)
